@@ -20,3 +20,10 @@ Files can be accessed relative to the domain root
 - http://localhost:8000/styles.css
 - http://localhost:8000/script.js
 - http://localhost:8000/index.html
+
+"C:\Program Files\Mozilla Firefox\firefox.exe" http://localhost:8000/
+"C:\Program Files\Google\Chrome\Application\chrome.exe" http://localhost:8000/
+
+
+http://127.0.0.1:8000/
+
