@@ -169,3 +169,26 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Miscellaneous and HTML / CSS / JavaScript Ignore PatternsBelow
+
+# Node.js modules
+node_modules/
+
+# npm logs
+npm-debug.log
+yarn-error.log
+
+# IDE/Editor specific files
+.vscode/
+.idea/
+
+# Temporary files
+*.swp
+*.swo
+*.tmp
+
+# Thumbnail files
+.DS_Store          # macOS
+Thumbs.db          # Windows
+
